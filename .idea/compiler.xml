@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="KT-Duels" target="1.5" />
+      <module name="KT-Duels" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
